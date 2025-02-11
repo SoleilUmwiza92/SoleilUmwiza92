@@ -12,11 +12,11 @@
 
 
 ## 👀 About Me  
-My name is Soleil ☀️, a **third-year HBO-ICT student at Fontys University of Applied Sciences**, specializing in **Artificial Intelligence**. Currently seeking an **internship** to apply my skills and gain industry experience.  
+My name is Soleil ☀️, a **third-year HBO-ICT student at Fontys University of Applied Sciences**, specializing in **Artificial Intelligence**. Currently seeking an **internship** to apply technical expertise and grow as a professional in software engineering.
 
 
 
-I am comfortable working with a variety of technologies but here are some i am particulary exeprienced in:
+I can work with a variety of technologies, but here are the ones i am particulary exeprienced in:
 
 ## 💻 Skills & Technologies 
 - **Languages**: C#, Java, Python, JavaScript, HTML  

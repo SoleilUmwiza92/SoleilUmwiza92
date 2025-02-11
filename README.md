@@ -47,7 +47,7 @@ I am comfortable working with a variety of technologies but here are some i am p
 - Debugged complex service interactions, improving system performance.
 
 
-**2. Building an application for municipality of Lelystad**:I developed an application for the
+**2. Building an application for municipality of Lelystad**: I developed an application for the
 municipality of Lelystad where users would be able to book
 their own appointments.
 

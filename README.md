@@ -27,38 +27,38 @@ I am comfortable working with a variety of technologies but here are some i am p
 
 **Role: Backend Developer**
 
-● Built a Kafka Consumer to process GDPR deletion requests asynchronously.
+- Built a Kafka Consumer to process GDPR deletion requests asynchronously.
 
-● Implemented event validation and pre-check mechanisms before anonymization.
+- Implemented event validation and pre-check mechanisms before anonymization.
 
-● Developed microservices in C# for secure data anonymization.
+- Developed microservices in C# for secure data anonymization.
 
-● Integrated with Kafka for event-driven architecture, ensuring smooth data flow.
+- Integrated with Kafka for event-driven architecture, ensuring smooth data flow.
 
-● Participated in Agile Scrum meetings for sprint planning and stand-ups.
+- Participated in Agile Scrum meetings for sprint planning and stand-ups.
 
-● Debugged complex service interactions, improving system performance.
+- Debugged complex service interactions, improving system performance.
 
 
 2. **Building an application for municipality of Lelystad**:I developed an application for the
 municipality of Lelystad where users would be able to book
 their own appointments.
 
-● Language and technology: Java programming language with
+- Language and technology: Java programming language with
 Vuejs and spring boot using IntelliJ IDEA as a technology.
-● Database: MongoDb
+- Database: MongoDb
 
 
 3. **Detecting phishing email**: Built an AI model to detect if an email is
 phishing or not
-● Languages and technology: Python, Jupyter Notebook.
-● Algorithms: KNN, Random forest classifier and NLP.
+- Languages and technology: Python, Jupyter Notebook.
+- Algorithms: KNN, Random forest classifier and NLP.
 
 
 4. **Image Prediction**: Predicts the objects that are in the image
 
-● Languages and technology: Python, Jupyter Notebook.
-● Algorithms: Multi Output Classifier with LogisticRegression
+- Languages and technology: Python, Jupyter Notebook.
+- Algorithms: Multi Output Classifier with LogisticRegression
 
 
 ### Group Projects
@@ -68,17 +68,17 @@ that can help the company to track the location of their
 employee, enabling them to determine whether the employees
 are at the office or working remotely.
 
-● Language and frameworks: C#, React Native, React and Node
+- Language and frameworks: C#, React Native, React and Node
 js
-● Technologies: Visual studio, postman, and firebase.
-● Tools:Jira, Git, and Mc Teams
+- Technologies: Visual studio, postman, and firebase.
+- Tools:Jira, Git, and Mc Teams
 
 2. **AI Model for Analyzing Student Traits and Grades**: Investigated correlations between
 Five-Point Test results, personality traits, and school grades in
 Limburg using Python. The project involved the development
 of an online version of the FivePoint Test and analysis of data
 collected from students
-● Languages and technologies: Python, Jupyter Notebook
+- Languages and technologies: Python, Jupyter Notebook
 
 
 ## 📫 How to Reach Me  

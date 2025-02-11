@@ -20,33 +20,35 @@ I am comfortable working with a variety of technologies but here are some i am p
 
 ## 🚀 Projects 
 
-**Personal Projects**
-- **GDPR RTBF Processing System at Wehkamp**
-- **Role: Backend Developer**
-- Built a Kafka Consumer to process GDPR deletion requests asynchronously.
-- Implemented event validation and pre-check mechanisms before anonymization.
-- Developed microservices in C# for secure data anonymization.
-- Integrated with Kafka for event-driven architecture, ensuring smooth data flow.
-- Participated in Agile Scrum meetings for sprint planning and stand-ups.
-- Debugged complex service interactions, improving system performance.
+### Personal Projects
+
+**GDPR RTBF Processing System at Wehkamp**
+
+**Role: Backend Developer**
+● Built a Kafka Consumer to process GDPR deletion requests asynchronously.
+● Implemented event validation and pre-check mechanisms before anonymization.
+● Developed microservices in C# for secure data anonymization.
+● Integrated with Kafka for event-driven architecture, ensuring smooth data flow.
+● Participated in Agile Scrum meetings for sprint planning and stand-ups.
+● Debugged complex service interactions, improving system performance.
 
 - **Building an application for municipality of Lelystad**:I developed an application for the
 municipality of Lelystad where users would be able to book
 their own appointments.
-- Language and technology: Java programming language with
+● Language and technology: Java programming language with
 Vuejs and spring boot using IntelliJ IDEA as a technology.
-- Database: MongoDb
+● Database: MongoDb
 
 - **Detecting phishing email**: Built an AI model to detect if an email is
 phishing or not
-- Languages and technology: Python, Jupyter Notebook.
-- Algorithms: KNN, Random forest classifier and NLP.
+● Languages and technology: Python, Jupyter Notebook.
+● Algorithms: KNN, Random forest classifier and NLP.
 
 - **Image Prediction**: Predicts the objects that are in the image
-- Languages and technology: Python, Jupyter Notebook.
-- Algorithms: Multi Output Classifier with LogisticRegression
+● Languages and technology: Python, Jupyter Notebook.
+● Algorithms: Multi Output Classifier with LogisticRegression
 
-**Group Projects**
+### Group Projects**
 
 - **Application to track the location of the employees**: We were assigned to build an application
 that can help the company to track the location of their

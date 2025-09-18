@@ -16,7 +16,7 @@
 
 
 ## 👀 About Me  
-My name is Soleil ☀️, a **last year HBO-ICT student at Fontys University of Applied Sciences**, specializing in **Artificial Intelligence**. Currently seeking an ** graduation internship** to apply technical expertise and grow as a professional in software engineering.
+My name is Soleil ☀️, a **last year HBO-ICT student at Fontys University of Applied Sciences**, specializing in **Artificial Intelligence**. Currently seeking a **graduation internship** to apply technical expertise and grow as a professional in software engineering.
 
 
 
@@ -50,6 +50,10 @@ Built a booking system using Java, Spring Boot, Vue.js, and MongoDB.
 
 Created a Python model using Multi-Output Classifier with Logistic Regression to predict objects in images.
 
+**5. Solar Energy Modeling (Fontys ICT – HTES Group)**
+
+Developed and validated a solar energy simulation model using historical KNMI weather and real-world solar datasets; transitioned from AnyLogic → Calliope → Python/Jupyter for scalable and transparent modeling supporting renewable energy planning.
+
 
 ### Group Projects
 
@@ -69,9 +73,10 @@ Developed an online version of the Five-Point Test for data collection.
 | Category                     | Skills & Tools                              |
 |-------------------------------|--------------------------------------------|
 | **Languages**                 | C#, Java, Python, JavaScript, HTML         |
-| **Frameworks**                | React Native, Pandas, Spring Boot, ASP.Net Core |
+| **Frameworks**                | React Native, Vue.js, Spring Boot, ASP.Net Core |
 | **Databases**                 | SQL Server, MongoDB, Entity Framework      |
 | **Event Streaming & Messaging** | Kafka                                     |
+| **Energy Modeling & Analysis**  | AnyLogic, Calliope, Python (pandas, xarray, Jupyter Notebook), Data Visualization |
 | **Project Management**        | Agile                         |
 | **Tools**                     | Git, Docker                                 |
 

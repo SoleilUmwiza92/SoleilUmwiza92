@@ -1,5 +1,9 @@
 # 👋 Hi there! 
 
+# Final-year HBO-ICT student (Software Development & AI)
+# Fontys University of Applied Sciences, Eindhoven
+
+
 
 ## 📖 Table of Contents  
 - [👀 About Me](#-about-me)  
@@ -18,74 +22,58 @@ My name is Soleil ☀️, a **last year HBO-ICT student at Fontys University of 
 
 I can work with a variety of technologies, but here are the ones i am particulary exeprienced in:
 
-## 💻 Skills & Technologies 
-- **Languages**: C#, Java, Python, JavaScript, HTML  
-- **Frameworks**: React Native, Vue.js, Spring Boot, ASP.Net Core  
-- **Databases**: SQL Server, MongoDB, Entity Framework
-- **Event Streaming & Messaging**: Kafka  
-- **Project Management**: Agile, Scrum, Jira
-- **Tools**: Git, Docker
 
-## 🚀 Projects 
+
+## 🚀 Past Projects 
 
 ### Personal Projects
 
-**1. GDPR RTBF Processing System at Wehkamp**
+**1. GDPR RTBF Processing System (Wehkamp) — Backend Developer**
 
-**Role: Backend Developer**
+Developed C# microservices to process GDPR deletion requests asynchronously.
 
-- Built a Kafka Consumer to process GDPR deletion requests asynchronously.
+Implemented event validation, pre-checks, and integrated with Kafka for smooth data flow.
 
-- Implemented event validation and pre-check mechanisms before anonymization.
-
-- Developed microservices in C# for secure data anonymization.
-
-- Integrated with Kafka for event-driven architecture, ensuring smooth data flow.
-
-- Participated in Agile Scrum meetings for sprint planning and stand-ups.
-
-- Debugged complex service interactions, improving system performance.
+Enhanced service performance through debugging and optimization.
 
 
-**2. Building an application for municipality of Lelystad**: I developed an application for the
-municipality of Lelystad where users would be able to book
-their own appointments.
+**2. Appointment Booking Application (Municipality of Lelystad)**
 
-- Language and technology: Java programming language with
-Vuejs and spring boot using IntelliJ IDEA as a technology.
-- Database: MongoDb
+Built a booking system using Java, Spring Boot, Vue.js, and MongoDB.
 
 
-**3. Detecting phishing email**: Built an AI model to detect if an email is
-phishing or not
-- Languages and technology: Python, Jupyter Notebook.
-- Algorithms: KNN, Random forest classifier and NLP.
+**3.Phishing Email Detectionl**
 
+   Developed a Python AI model using KNN, Random Forest, and NLP to detect phishing emails.
 
-**4. Image Prediction**: Predicts the objects that are in the image
+**4. Image Prediction**
 
-- Languages and technology: Python, Jupyter Notebook.
-- Algorithms: Multi Output Classifier with LogisticRegression
+Created a Python model using Multi-Output Classifier with Logistic Regression to predict objects in images.
 
 
 ### Group Projects
 
-**1. Application to track the location of the employees**: We were assigned to build an application
-that can help the company to track the location of their
-employee, enabling them to determine whether the employees
-are at the office or working remotely.
+**1. Employee Location Tracking App**
 
-- Language and frameworks: C#, React Native, React and Node
-js
-- Technologies: Visual studio, postman, and firebase.
-- Tools:Jira, Git, and Mc Teams
+ Built a C# and React Native app with Node.js backend to track employee locations.
 
-**2. AI Model for Analyzing Student Traits and Grades**: Investigated correlations between
-Five-Point Test results, personality traits, and school grades in
-Limburg using Python. The project involved the development
-of an online version of the FivePoint Test and analysis of data
-collected from students
-- Languages and technologies: Python, Jupyter Notebook
+Used Firebase, Visual Studio, Postman, Jira, Git, and Microsoft Teams.
+
+**2. AI Model for Student Traits and Grades**
+Analyzed correlations between personality tests and school grades using Python and Jupyter Notebook.
+
+Developed an online version of the Five-Point Test for data collection.
+
+## 💻 Skills & Technologies
+
+| Category                     | Skills & Tools                              |
+|-------------------------------|--------------------------------------------|
+| **Languages**                 | C#, Java, Python, JavaScript, HTML         |
+| **Frameworks**                | React Native, Pandas, Spring Boot, ASP.Net Core |
+| **Databases**                 | SQL Server, MongoDB, Entity Framework      |
+| **Event Streaming & Messaging** | Kafka                                     |
+| **Project Management**        | Agile                         |
+| **Tools**                     | Git, Docker                                 |
 
 
 ## 📫 How to Reach Me  

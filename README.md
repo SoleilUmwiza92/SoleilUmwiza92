@@ -103,5 +103,3 @@ English (Fluent) | Dutch (Upper-Intermediate) | French (Intermediate)
 * Email: 474883@student.fontys.nl
 
 ---
-
-⭐ Check out my pinned projects below — I focus on **quality over quantity**

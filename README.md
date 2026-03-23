@@ -1,86 +1,107 @@
-# 👋 Hi there! 
+# 👋 Hi, I'm Soleil
 
-# Final-year HBO-ICT student (Software Development & AI)
-# Fontys University of Applied Sciences, Eindhoven
+🚀 Full-stack Developer | AI & Data Enthusiast
+📍 Netherlands
 
+I build **scalable systems**, **data-driven applications**, and **AI-powered solutions** — with a strong focus on performance, clean architecture, and real-world impact.
 
+---
 
-## 📖 Table of Contents  
-- [👀 About Me](#-about-me)  
-- [💻 Skills & Technologies](#-skills--technologies)  
-- [🚀 Projects](#️-projects)  
-- [📫 How to Reach Me](#-how-to-reach-me)  
+## 💼 What I Bring
 
+* ⚙️ Production-level experience with **C# / ASP.NET Core microservices**
+* 🔄 Hands-on with **event-driven systems (Kafka)**
+* 🤖 Building **AI applications (NLP, RAG pipelines, ML models)**
+* 📊 Strong foundation in **data analysis & modeling (Python ecosystem)**
+* 🧪 Experienced in **testing, CI/CD, and system reliability**
 
+---
 
+## 🛠️ Tech Stack
 
+**Backend**
+C#, ASP.NET Core, Java, Spring Boot
 
-## 👀 About Me  
-My name is Soleil ☀️, a **last year HBO-ICT student at Fontys University of Applied Sciences**, specializing in **Artificial Intelligence**. Currently seeking a **graduation internship** to apply technical expertise and grow as a professional in software engineering.
+**Frontend**
+React, Vue.js, JavaScript
 
+**Data & AI**
+Python, Pandas, NumPy, Scikit-learn, NLP
 
+**Databases**
+PostgreSQL, SQL Server, MongoDB
 
-I can work with a variety of technologies, but here are the ones i am particulary exeprienced in:
+**DevOps & Tools**
+Docker, Kafka, GitHub Actions, Postman
 
+**Testing**
+Rest Assured, Testcontainers, K6, OWASP ZAP
 
+---
 
-## 🚀 Past Projects 
+## 🚀 Featured Projects
 
-### Personal Projects
+### 🔹 GDPR RTBF Processing System
 
-**1. GDPR RTBF Processing System (Wehkamp) — Backend Developer**
+**Event-driven microservices for GDPR compliance**
 
-Developed C# microservices to process GDPR deletion requests asynchronously.
+* Built Kafka consumer for asynchronous request processing
+* Implemented secure data anonymization workflows
+* Developed scalable backend services in ASP.NET Core
+  👉 *Tech:* C#, Kafka, Microservices
 
-Implemented event validation, pre-checks, and integrated with Kafka for smooth data flow.
+---
 
-Enhanced service performance through debugging and optimization.
+### 🔹 AI Dementia Assistant (RAG-based)
 
+**Privacy-focused AI chatbot for dementia care**
 
-**2. Appointment Booking Application (Municipality of Lelystad)**
+* Implemented Retrieval-Augmented Generation pipeline
+* Deployed LLMs on secure cloud infrastructure
+* Built backend + proof-of-concept frontend
+  👉 *Tech:* Python, NLP, RAG, Cloud
 
-Built a booking system using Java, Spring Boot, Vue.js, and MongoDB.
+---
 
+### 🔹 CareMoms – Social Support Platform
 
-**3.Phishing Email Detectionl**
+**Full-stack scalable platform with secure authentication**
 
-   Developed a Python AI model using KNN, Random Forest, and NLP to detect phishing emails.
+* Designed REST APIs and backend architecture
+* Integrated PostgreSQL and Dockerized services
+  👉 *Tech:* Spring Boot, React, PostgreSQL, Docker
 
-**4. Image Prediction**
+---
 
-Created a Python model using Multi-Output Classifier with Logistic Regression to predict objects in images.
+### 🔹 Phishing Email Detection System
 
-**5. Solar Energy Modeling (Fontys ICT – HTES Group)**
+**Machine learning model for cybersecurity**
 
-Developed and validated a solar energy simulation model using historical KNMI weather and real-world solar datasets; transitioned from AnyLogic → Calliope → Python/Jupyter for scalable and transparent modeling supporting renewable energy planning.
+* Applied NLP + supervised learning
+* Compared KNN vs Random Forest performance
+  👉 *Tech:* Python, Scikit-learn
 
+---
 
-### Group Projects
+## 📈 Experience Snapshot
 
-**1. Employee Location Tracking App**
+* 🏢 Backend Developer @ Wehkamp → Kafka-based GDPR system
+* 🔬 Research Intern → Solar energy modeling & validation
+* 🤖 AI Developer → RAG-based healthcare assistant
 
- Built a C# and React Native app with Node.js backend to track employee locations.
+---
 
-Used Firebase, Visual Studio, Postman, Jira, Git, and Microsoft Teams.
+## 🌍 Languages
 
-**2. AI Model for Student Traits and Grades**
-Analyzed correlations between personality tests and school grades using Python and Jupyter Notebook.
+English (Fluent) | Dutch (Upper-Intermediate) | French (Intermediate)
 
-Developed an online version of the Five-Point Test for data collection.
+---
 
-## 💻 Skills & Technologies
+## 📫 Let's Connect
 
-| Category                     | Skills & Tools                              |
-|-------------------------------|--------------------------------------------|
-| **Languages**                 | C#, Java, Python, JavaScript, HTML         |
-| **Frameworks**                | React Native, Vue.js, Spring Boot, ASP.Net Core |
-| **Databases**                 | SQL Server, MongoDB, Entity Framework      |
-| **Event Streaming & Messaging** | Kafka                                     |
-| **Energy Modeling & Analysis**  | AnyLogic, Calliope, Python (pandas, xarray, Jupyter Notebook), Data Visualization |
-| **Project Management**        | Agile                         |
-| **Tools**                     | Git, Docker                                 |
+* LinkedIn: www.linkedin.com/in/soleil-umwiza-5853b216b
+* Email: 474883@student.fontys.nl
 
+---
 
-## 📫 How to Reach Me  
-🔗 LinkedIn: [linkedin.com/in/sol](http://linkedin.com/in/sol)  
-
+⭐ Check out my pinned projects below — I focus on **quality over quantity**
